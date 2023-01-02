@@ -7,12 +7,16 @@ The projects housed within these repositories demonstrate
 Selecting sample size (1, 2, 3)
 Validation Simulations (1, 2) 
 Mechanistic Simulations
+    Mcmc, discrete event, multi agent 
 Machine Learning: Clustering
 Machine Learning: Classification 
 Data Analytics 
+   Survival analysis, GLM, lmm, time series
 Optimization 
+   Simplex, Pareto, normalized sum 
 Python
 MATLAB
 R
+Response surface methodology 
 
 ALSO ADD: Netlogo, nate threshold, fiverr, evan project? 
