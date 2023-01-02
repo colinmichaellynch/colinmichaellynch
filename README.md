@@ -13,7 +13,7 @@ Machine Learning: Classification
 Data Analytics 
    Survival analysis, GLM, lmm, time series
 Optimization 
-   Simplex, Pareto, normalized sum 
+   Simplex, Pareto, normalized sum, genetic algorithm 
 Python
 MATLAB
 R
