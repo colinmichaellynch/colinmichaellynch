@@ -31,3 +31,12 @@ please see end to end for demonstration of how i synthesize many of these skills
    - [Power Analysis](https://github.com/colinmichaellynch/Optimal-Experimental-Designs-for-Hypothesis-Testing-with-Multiple-Factors)
    - [Sample Variance Convergence](https://github.com/colinmichaellynch/End-to-End-Ant-Data-Project)
    - [Generalized Power Analysis](https://github.com/colinmichaellynch/Sampling-Across-vs-Within-Random-Effects)
+
+## Contact Information
+
+| Contact Method | URL |
+| --- | --- |
+| Email | cmlynch2@asu.edu |
+| LinkedIn | https://www.linkedin.com/in/colinmichaellynch/ |
+| Fiverr | https://www.fiverr.com/colinlynch |
+
