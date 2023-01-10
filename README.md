@@ -7,7 +7,6 @@ response surface methodology
 
 The projects housed within these repositories demonstrate 
 
-* Power analysis ([1](https://github.com/colinmichaellynch/Sampling-Across-vs-Within-Random-Effects), [2](https://github.com/colinmichaellynch/Optimal-Experimental-Designs-for-Hypothesis-Testing-with-Multiple-Factors), [3](https://github.com/colinmichaellynch/End-to-End-Ant-Data-Project))
 * Simulations
   - [MCMC](https://github.com/colinmichaellynch/Nutrient-Allocation-in-Leaf-Cutter-Ants)
   - [Discrete Event](https://github.com/colinmichaellynch/End-to-End-Ant-Data-Project)
@@ -26,4 +25,7 @@ The projects housed within these repositories demonstrate
    - [Pareto]() -fiverr housing
    - [Scalarization](https://github.com/colinmichaellynch/End-to-End-Ant-Data-Project)
    - [Genetic Algorithm](https://github.com/colinmichaellynch/Optimal-Threshold-Distributions)
-
+* Sample Size Estimation
+   - [Power Analysis](https://github.com/colinmichaellynch/Optimal-Experimental-Designs-for-Hypothesis-Testing-with-Multiple-Factors)
+   - [Sample Variance Convergence](https://github.com/colinmichaellynch/End-to-End-Ant-Data-Project)
+   - [Generalized Power Analysis](https://github.com/colinmichaellynch/Sampling-Across-vs-Within-Random-Effects)
