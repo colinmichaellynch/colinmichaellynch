@@ -1,7 +1,7 @@
 ### Profile Overview
 
 Hello there! My name is Colin Lynch, and I am an animal behavior Ph.D. candidate at Arizona State University. I primarily leverage industrial engineering techniques to design optimal experiments for the study of emergence in complex adaptive systems, and I am looking to use these techniques to aquire a data science internship in R&D. I am specifically interested in reducing research costs by developing optimization methods that minimize sample size while still having a rich enough dataset to perform hypothesis tests and predictive analytics. I also use simulations to validate these approaches and to gain deeper insights into the underlying mechanisms  
-
+https://github.com/Gchism94
 ...across MATLAB, R, Python, JMP, Netlogo
 response surface methodology 
 
