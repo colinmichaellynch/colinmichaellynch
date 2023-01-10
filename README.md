@@ -7,6 +7,8 @@ response surface methodology
 
 The projects housed within these repositories demonstrate 
 
+please see end to end for demonstration of how i synthesize many of these skills. 
+
 * Simulations
   - [MCMC](https://github.com/colinmichaellynch/Nutrient-Allocation-in-Leaf-Cutter-Ants)
   - [Discrete Event](https://github.com/colinmichaellynch/End-to-End-Ant-Data-Project)
