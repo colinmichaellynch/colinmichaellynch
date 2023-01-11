@@ -1,15 +1,19 @@
-### Profile Overview
-
 <p align="center">
-  <img width="550" height="450" src=https://user-images.githubusercontent.com/61156429/211726471-9fee64e6-1dc8-4719-9aea-530528ec39a1.gif>
+  <img width="550" height="430" src=https://user-images.githubusercontent.com/61156429/211726471-9fee64e6-1dc8-4719-9aea-530528ec39a1.gif>
 </p>
+
+***
+
+### PhD Candidate Looking for Data Science Internship
+
+<img src="https://user-images.githubusercontent.com/61156429/211861311-642d131e-de8e-402a-afe0-e2df6b74e361.png" align="right" width="500px"/>
+<img src="https://user-images.githubusercontent.com/61156429/211863737-6ae0e5e4-6baa-48b5-be6a-7ae52ba6dc52.png" align="right" width="500px"/>
+<img src="https://user-images.githubusercontent.com/61156429/211865264-91c2a721-7d13-48c2-9672-bf82d611ba41.png" align="right" width="500px"/>
 
 Hello there! My name is Colin Lynch, and I am an animal behavior Ph.D. candidate at Arizona State University. I primarily leverage industrial engineering techniques to design optimal experiments for the study of emergence in complex adaptive systems, and I am looking to use these techniques to aquire a data science internship in R&D. I am specifically interested in reducing research costs by developing optimization methods that minimize sample size while still having a rich enough dataset to perform hypothesis tests and predictive analytics. I also use simulations to validate these approaches and to gain deeper insights into the underlying mechanisms  
 https://github.com/Gchism94
 ...across MATLAB, R, Python, JMP, Netlogo
 response surface methodology 
-
-The projects housed within these repositories demonstrate 
 
 please see end to end for demonstration of how i synthesize many of these skills. 
 
