@@ -44,3 +44,10 @@ This portfolio is a demonstration of how I use Python, R, MATLAB, JMP, and Netlo
 | Email | cmlynch2@asu.edu |
 | LinkedIn | https://www.linkedin.com/in/colinmichaellynch/ |
 | Fiverr | https://www.fiverr.com/colinlynch |
+
+***
+
+<p align="center">
+  <img width="500" height="500" src=https://user-images.githubusercontent.com/61156429/211883975-0946d5e5-95f6-47ae-81f8-74b415f5cdc7.gif>
+</p>
+
