@@ -4,7 +4,7 @@
 
 ***
 
-### PhD Candidate Looking for Data Science Internship
+### Ph.D. Candidate Looking for Data Science Internship
 
 <img src="https://user-images.githubusercontent.com/61156429/211861311-642d131e-de8e-402a-afe0-e2df6b74e361.png" align="right" width="450px"/>  
 <img src="https://user-images.githubusercontent.com/61156429/211863737-6ae0e5e4-6baa-48b5-be6a-7ae52ba6dc52.png" align="right" width="450px"/>
