@@ -29,7 +29,7 @@ This portfolio is a demonstration of how I use Python, R, MATLAB, JMP, and Netlo
   - [Time Series Analysis](https://github.com/colinmichaellynch/Easter-Island-Rainfall-Time-Series)
 * Optimization 
    - [Sequential Simplex Search](https://github.com/colinmichaellynch/Simplex-Optimization-for-Experimental-Design)
-   - [Pareto]() -fiverr housing
+   - [Pareto](https://github.com/colinmichaellynch/Fiverr-Projects/tree/main/Where%20to%20Buy%20Rental%20Properties)
    - [Scalarization](https://github.com/colinmichaellynch/End-to-End-Ant-Data-Project)
    - [Genetic Algorithm](https://github.com/colinmichaellynch/Optimal-Threshold-Distributions)
 * Sample Size Estimation
