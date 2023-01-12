@@ -16,10 +16,10 @@ This portfolio is a demonstration of how I use Python, R, MATLAB, JMP, and Netlo
 
 * Simulations
   - [MCMC](https://github.com/colinmichaellynch/Nutrient-Allocation-in-Leaf-Cutter-Ants)
-  - [Discrete Event](https://github.com/colinmichaellynch/End-to-End-Ant-Data-Project)
+  - [Discrete Event](https://github.com/colinmichaellynch/End-to-End-Ant-Data-Project/tree/main/Part%201)
   - [Multi-Agent](https://github.com/colinmichaellynch/Easter-Island-Cooperation-Simulation)
 * Machine Learning
-  - [Clustering](https://github.com/colinmichaellynch/End-to-End-Ant-Data-Project)
+  - [Clustering](https://github.com/colinmichaellynch/End-to-End-Ant-Data-Project/tree/main/Part%203)
   - [Classification](https://github.com/colinmichaellynch/ML-For-Ankle-Surgery)
   - [Developing Novel ML Algorithm](https://github.com/colinmichaellynch/Casting-Machine-Learning-Algorithm) 
 * Data Analytics 
@@ -30,11 +30,11 @@ This portfolio is a demonstration of how I use Python, R, MATLAB, JMP, and Netlo
 * Optimization 
    - [Sequential Simplex Search](https://github.com/colinmichaellynch/Simplex-Optimization-for-Experimental-Design)
    - [Pareto](https://github.com/colinmichaellynch/Fiverr-Projects/tree/main/Where%20to%20Buy%20Rental%20Properties)
-   - [Scalarization](https://github.com/colinmichaellynch/End-to-End-Ant-Data-Project)
+   - [Scalarization](https://github.com/colinmichaellynch/End-to-End-Ant-Data-Project/tree/main/Part%201)
    - [Genetic Algorithm](https://github.com/colinmichaellynch/Optimal-Threshold-Distributions)
 * Sample Size Estimation
    - [Power Analysis](https://github.com/colinmichaellynch/Optimal-Experimental-Designs-for-Hypothesis-Testing-with-Multiple-Factors)
-   - [Sample Variance Convergence](https://github.com/colinmichaellynch/End-to-End-Ant-Data-Project)
+   - [Sample Variance Convergence](https://github.com/colinmichaellynch/End-to-End-Ant-Data-Project/tree/main/Part%201)
    - [Generalized Power Analysis](https://github.com/colinmichaellynch/Sampling-Across-vs-Within-Random-Effects)
 
 ## Contact Information
