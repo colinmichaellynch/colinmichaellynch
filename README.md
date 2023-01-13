@@ -32,6 +32,7 @@ This portfolio is a demonstration of how I use Python, R, MATLAB, JMP, and Netlo
    - [Pareto](https://github.com/colinmichaellynch/Fiverr-Projects/tree/main/Where%20to%20Buy%20Rental%20Properties)
    - [Scalarization](https://github.com/colinmichaellynch/End-to-End-Ant-Data-Project/tree/main/Part%201)
    - [Genetic Algorithm](https://github.com/colinmichaellynch/Optimal-Threshold-Distributions)
+   - [Data Pipeline Design](https://github.com/colinmichaellynch/End-to-End-Ant-Data-Project/tree/main/Part%202)
 * Sample Size Estimation
    - [Power Analysis](https://github.com/colinmichaellynch/Optimal-Experimental-Designs-for-Hypothesis-Testing-with-Multiple-Factors)
    - [Sample Variance Convergence](https://github.com/colinmichaellynch/End-to-End-Ant-Data-Project/tree/main/Part%201)
