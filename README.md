@@ -12,7 +12,7 @@
 
 Hello there! My name is Colin Lynch, and I am an animal behavior Ph.D. candidate at Arizona State University. I primarily leverage industrial engineering techniques to design optimal experiments for the study of emergence in complex adaptive systems, and I am looking to use these techniques to acquire a data science internship in R&D. I am specifically interested in reducing research costs by developing optimization methods that minimize sample size while still having a rich enough dataset to perform inferential and predictive analytics. I also use simulations to validate these approaches and to gain deeper insights into the underlying mechanisms that drive complicated systems.   
 
-This portfolio is a demonstration of how I use Python, R, MATLAB, JMP, and Netlogo to analyze and model data in domains ranging from biology, archaeology, and business. Examples for how I use different methodologies to address different types of problems are linked below, but if time is of the essence, please see this [repository](https://github.com/colinmichaellynch/End-to-End-Ant-Data-Project) for how I synthesize many of these skills into a single project. 
+This portfolio is a demonstration of how I use Python, R, MATLAB, JMP, and Netlogo to analyze and model data in domains ranging from biology, archaeology, and business. Examples for how I use different methodologies to address different types of problems are linked below, but if time is of the essence, please see this [repository](https://github.com/colinmichaellynch/End-to-End-Ant-Data-Project) for how I have synthesized many of these skills into a single project. 
 
 * Simulations
   - [MCMC](https://github.com/colinmichaellynch/Nutrient-Allocation-in-Leaf-Cutter-Ants)
