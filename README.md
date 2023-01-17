@@ -21,6 +21,7 @@ This portfolio is a demonstration of how I use Python, R, MATLAB, JMP, and Netlo
 * Machine Learning
   - [Clustering](https://github.com/colinmichaellynch/End-to-End-Ant-Data-Project/tree/main/Part%203)
   - [Classification](https://github.com/colinmichaellynch/ML-For-Ankle-Surgery)
+  - [Species Dispersal Model](https://github.com/colinmichaellynch/Fiverr-Projects/tree/main/Seagrass%20Species%20Dispersion%20Model)
   - [Developing Novel ML Algorithm](https://github.com/colinmichaellynch/Casting-Machine-Learning-Algorithm) 
 * Data Analytics 
   - [Survival Analysis](https://github.com/colinmichaellynch/Effect-of-Fungicide-on-Bees)
