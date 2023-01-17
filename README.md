@@ -52,3 +52,6 @@ This portfolio is a demonstration of how I use Python, R, MATLAB, JMP, and Netlo
   <img width="500" height="500" src=https://user-images.githubusercontent.com/61156429/211883975-0946d5e5-95f6-47ae-81f8-74b415f5cdc7.gif>
 </p>
 
+*** 
+
+![predictionPlots](https://user-images.githubusercontent.com/61156429/213000673-0a6b7bd2-6200-4ff3-9fc1-39871af700af.png)
