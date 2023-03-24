@@ -49,13 +49,9 @@ This portfolio is a demonstration of how I use Python, R, MATLAB, JMP, and Netlo
 
 ***
 
-<p align="left">
-  <img width="500" height="500" src=https://user-images.githubusercontent.com/61156429/211883975-0946d5e5-95f6-47ae-81f8-74b415f5cdc7.gif>
-</p>
-
-<p align="right">
-  <img width="450" height="330" src=https://user-images.githubusercontent.com/61156429/227605915-1c6c9d78-ae61-4bfa-9564-e73b4987a81e.mp4>
-</p>
+           |  
+:-------------------------:|:-------------------------:
+![](https://user-images.githubusercontent.com/61156429/211883975-0946d5e5-95f6-47ae-81f8-74b415f5cdc7.gif)  |  ![](https://user-images.githubusercontent.com/61156429/227611733-72318322-7845-475b-a4f4-497e3b092d33.gif)
 
 *** 
 
