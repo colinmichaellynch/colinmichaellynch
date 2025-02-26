@@ -4,7 +4,7 @@
 
 ***
 
-### Ph.D. Candidate Looking for Data Science Internship
+### Postdoctoral Fellow Looking for Data Sciencist Role in R&D Company
 
 <img src="https://user-images.githubusercontent.com/61156429/211861311-642d131e-de8e-402a-afe0-e2df6b74e361.png" align="right" width="450px"/>  
 <img src="https://user-images.githubusercontent.com/61156429/211863737-6ae0e5e4-6baa-48b5-be6a-7ae52ba6dc52.png" align="right" width="450px"/>
@@ -39,9 +39,9 @@ This portfolio is a demonstration of how I use Python, R, MATLAB, JMP, and Netlo
    - [Sample Variance Convergence](https://github.com/colinmichaellynch/End-to-End-Ant-Data-Project/tree/main/Part%201)
    - [Generalized Power Analysis](https://github.com/colinmichaellynch/Sampling-Across-vs-Within-Random-Effects)
 
-## Contact Information
+## Personal Websites and Contact Information
 
-| Contact Method | URL |
+| Contact Method / Website | URL |
 | --- | --- |
 | Email | cmlynch2@asu.edu |
 | LinkedIn | https://www.linkedin.com/in/colinmichaellynch/ |
