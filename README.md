@@ -3,7 +3,8 @@
 </p>
 
 <p align="center">
-  <img width="450" height="330" src=https://github.com/user-attachments/assets/72c2b74c-9c66-4d76-bc7b-a09daa2e19cc
+  <img width="450" height="330" src=![netlogoSim-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/def1d17e-9ecb-4046-a437-9d2fba4e3ac7)
+
 </p>
 
 
