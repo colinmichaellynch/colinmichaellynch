@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/colinmichaellynch/images/main/Picture3.png" align="right" width="250" style="margin-left:20px;">
-
 # Dr. Colin Lynch
+
+<img src="https://raw.githubusercontent.com/colinmichaellynch/images/main/Picture3.png" align="right" width="250" style="margin-left:20px;">
 
 Postdoctoral Fellow — Collective Logic Lab, Arizona State University  
 Working with Dr. Bryan Daniels
