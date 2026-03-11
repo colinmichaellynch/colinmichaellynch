@@ -14,6 +14,8 @@ My research integrates statistical methodology, optimal experimental design, emp
 
 ## Empirical Studies of Social Insects
 
+<img src="https://raw.githubusercontent.com/colinmichaellynch/images/main/Picture1.png" align="right" width="420" style="margin-left:20px;">
+
 My early research focused on empirical behavioral ecology, particularly how division of labor emerges in ant colonies. These studies combined behavioral observation, spatial analysis, and statistical modeling to understand how colony-level organization emerges from the interactions of individuals.
 
 Relevant publications:
@@ -30,15 +32,15 @@ Working closely with empirical behavioral datasets revealed how difficult it can
 
 ## Optimal Design of Experiments
 
-<img src="https://raw.githubusercontent.com/colinmichaellynch/images/main/flowDiagram.webp" align="right" width="420">
+<img src="https://raw.githubusercontent.com/colinmichaellynch/images/main/flowDiagram.webp" align="right" width="450">
 
 A major focus of my research is the development of (and the dissemination of existing) experimental design methods that reduce the cost and sample size required for scientific experiments while maintaining strong inferential power.
 
 Relevant publications:
 
-- [Piecewise-Continuous Sampling: A Method for Minimizing Bias and Sampling Effort for Estimated Metrics of Animal Behavior](https://onlinelibrary.wiley.com/doi/full/10.1111/eth.70021)  
-
 - [More individuals or more groups? Incorporating sampling effort, statistical power, and model accuracy when designing experiments](https://link.springer.com/article/10.1007/s00265-025-03640-1)
+
+- [Piecewise-Continuous Sampling: A Method for Minimizing Bias and Sampling Effort for Estimated Metrics of Animal Behavior](https://onlinelibrary.wiley.com/doi/full/10.1111/eth.70021)  
 
 - [Optimal experimental designs for hypothesis testing with multiple factors: maximising power for the biological sciences](https://www.inderscienceonline.com/doi/abs/10.1504/IJEDPO.2024.140455)  
 
@@ -51,6 +53,8 @@ These projects develop methods for determining how experimental effort should be
 ---
 
 ## Statistical Frameworks for Methodological Problems
+
+<img src="https://raw.githubusercontent.com/colinmichaellynch/images/main/figure1Composite.png" align="right" width="420" style="margin-left:20px;">
 
 Another major thread of my work focuses on developing statistical frameworks that address methodological challenges across disciplines, particularly in cases where experimental design, sampling strategies, and inference interact in subtle ways.
 
@@ -87,6 +91,8 @@ Together, these frameworks aim to improve experimental rigor, reduce unnecessary
 ---
 
 ## Modeling Complex Adaptive Systems and Collective Transitions
+
+<img src="https://raw.githubusercontent.com/colinmichaellynch/images/main/Figure2%20(1).png" align="right" width="420" style="margin-left:20px;">
 
 My current research focuses on modeling collective behavior and phase transitions in biological systems, particularly social insect colonies.
 
