@@ -54,7 +54,7 @@ These projects develop methods for determining how experimental effort should be
 
 ## Statistical Frameworks for Methodological Problems
 
-<img src="https://raw.githubusercontent.com/colinmichaellynch/images/main/figure1Composite.png" align="right" width="420" style="margin-left:20px;">
+<img src="https://raw.githubusercontent.com/colinmichaellynch/images/main/figure1Composite.png" align="right" width="500" style="margin-left:20px;">
 
 Another major thread of my work focuses on developing statistical frameworks that address methodological challenges across disciplines, particularly in cases where experimental design, sampling strategies, and inference interact in subtle ways.
 
