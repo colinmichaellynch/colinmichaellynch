@@ -108,7 +108,7 @@ Although much of this work is motivated by social insect systems, my modeling ef
 
 - [Environmental stochasticity, resource heterogeneity, and the evolution of cooperation](https://www.comses.net/codebases/4aff6e81-62fd-45b6-9182-feafd2768a75/releases/1.3.0/)
 
-More broadly, this work is part of a larger effort to understand collective systems using the language of nonlinear dynamics, phase transitions, and bifurcation theory. In many biological collectives, small changes in environmental conditions, interaction strengths, or individual thresholds can cause abrupt transitions between macroscopic behavioral regimes, such as the onset of coordinated foraging, alarm cascades, or collective decision-making. This perspective is developed further in:
+Currently, I am working as part of a larger effort to understand collective systems using the language of nonlinear dynamics, phase transitions, and bifurcation theory. In many biological collectives, small changes in environmental conditions, interaction strengths, or individual thresholds can cause abrupt transitions between macroscopic behavioral regimes, such as the onset of coordinated foraging, alarm cascades, or collective decision-making. This perspective is developed further in:
 
 - [Tuning regimes in ant foraging dynamics depend on the existence of bistability](https://royalsocietypublishing.org/rsif/article/23/235/20250838/480257)
 
