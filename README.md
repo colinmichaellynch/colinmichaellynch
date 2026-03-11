@@ -112,7 +112,7 @@ More broadly, this work is part of a larger effort to understand collective syst
 
 - [Tuning regimes in ant foraging dynamics depend on the existence of bistability](https://royalsocietypublishing.org/rsif/article/23/235/20250838/480257)
 
-  This line of research contributes to a broader framework for studying collective transitions across biological systems, where individual-level interactions generate emergent system-level states that can shift between regimes in response to changing environmental or internal conditions.
+This line of research contributes to a broader framework for studying collective transitions across biological systems, where individual-level interactions generate emergent system-level states that can shift between regimes in response to changing environmental or internal conditions.
   
 ---
 
@@ -122,10 +122,10 @@ Although these research programs span biology, engineering, and statistics, they
 
 How can we efficiently uncover the mechanisms driving complex systems?
 
-Empirical studies reveal the structure and variability of real biological systems.  
-Experimental design methods ensure that limited observational resources are used efficiently.  
-Statistical frameworks allow rigorous inference from complex datasets.  
-Computational models allow exploration of mechanisms that cannot easily be manipulated experimentally.
+-Empirical studies reveal the structure and variability of real biological systems.  
+-Experimental design methods ensure that limited observational resources are used efficiently.  
+-Statistical frameworks allow rigorous inference from complex datasets.  
+-Computational models allow exploration of mechanisms that cannot easily be manipulated experimentally.
 
 Together, these approaches provide an integrated strategy for understanding collective phenomena in complex adaptive systems.
 
