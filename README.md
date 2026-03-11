@@ -30,6 +30,8 @@ Working closely with empirical behavioral datasets revealed how difficult it can
 
 ## Optimal Design of Experiments
 
+<img src="https://raw.githubusercontent.com/colinmichaellynch/images/main/flowDiagram.webp" align="right" width="420">
+
 A major focus of my research is the development of (and the dissemination of existing) experimental design methods that reduce the cost and sample size required for scientific experiments while maintaining strong inferential power.
 
 Relevant publications:
@@ -64,7 +66,7 @@ Another methodological contribution addresses the design of nutritional experime
 
 - [Minimizing inferential bias in the theory and design of nutritional experiments through the application of the equilateral mixture triangle](https://www.biorxiv.org/content/10.64898/2025.12.06.692245v1.abstract)
 
-I introduce the equilateral mixture triangle (EMT) framework for experimental design within the geometric framework of nutrition. Traditional mixture experiments are often implemented using right-angled mixture triangles, which can introduce distortions in the interpretation of nutritional landscapes and bias inference about nutrient interactions. The EMT framework provides a geometrically consistent representation of mixture spaces that preserves the underlying structure of compositional data and improves interpretability of nutritional response surfaces.
+I reintroduce the equilateral mixture triangle (EMT) framework for experimental design within the geometric framework of nutrition. Traditional mixture experiments are often implemented using right-angled mixture triangles, which can introduce distortions in the interpretation of nutritional landscapes and bias inference about nutrient interactions. The EMT framework provides a geometrically consistent representation of mixture spaces that preserves the underlying structure of compositional data and improves interpretability of nutritional response surfaces.
 
 A second line of work focuses on equivalency testing frameworks for engineering qualification and requalification, particularly in additive manufacturing. In these systems, process changes such as machine replacement, powder changes, facility relocation, or environmental drift can trigger costly requalification procedures.
 
