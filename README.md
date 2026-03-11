@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/colinmichaellynch/images/main/Picture2.png" align="right" width="300" style="margin-left:20px;">
+<img src="https://raw.githubusercontent.com/colinmichaellynch/images/main/Picture3.png" align="right" width="300" style="margin-left:20px;">
 
 # Dr. Colin Lynch
 
