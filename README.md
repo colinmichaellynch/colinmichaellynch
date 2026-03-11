@@ -12,14 +12,14 @@
 
 # Colin M. Lynch
 
-**Postdoctoral Fellow — Collective Logic Lab, Arizona State University**  
-Working with **Dr. Bryan Daniels**
+Postdoctoral Fellow — Collective Logic Lab, Arizona State University  
+Working with Dr. Bryan Daniels
 
-**Statistical Consultant — Terra Integrated Solutions**
+Statistical Consultant — Terra Integrated Solutions
 
-My research integrates **statistical methodology, optimal experimental design, empirical behavioral ecology, and computational modeling** to study **complex adaptive systems**.  
+My research integrates statistical methodology, optimal experimental design, empirical behavioral ecology, and computational modeling to study complex adaptive systems.  
 
-Across biological and engineered systems, I develop methods to **design more informative experiments, reduce sampling costs, and uncover the mechanisms driving collective phenomena.**
+Across biological and engineered systems, I develop methods for designing more informative experiments, reducing sampling costs, and uncovering the mechanisms that generate collective behavior.
 
 ---
 
@@ -27,114 +27,103 @@ Across biological and engineered systems, I develop methods to **design more inf
 
 ## Empirical Studies of Social Insects
 
-My early work focused on **empirical behavioral ecology**, particularly how division of labor, spatial organization, and collective behavior emerge in ant colonies.
+My early research focused on empirical behavioral ecology, particularly how division of labor and spatial organization emerge in ant colonies. These studies combined behavioral observation, spatial analysis, and statistical modeling to understand how colony-level organization emerges from the interactions of individuals.
 
-These studies combine **behavioral experiments, spatial statistics, and network analysis** to understand how colony-level organization arises from individual behavior.
+Relevant publications:
 
-Selected publications:
+- [Ants in isolation: obstacles to testing worker responses to task stimuli outside of the colony context](https://link.springer.com/article/10.1007/s00040-019-00692-1)  
+- [Generalists Start Tasks and Specialists Finish Them](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=A6xsceQAAAAJ&citation_for_view=A6xsceQAAAAJ:W7OEmFMy1HYC)  
+- https://scholar.google.com/citations?view_op=view_citation&hl=en&user=A6xsceQAAAAJ&citation_for_view=A6xsceQAAAAJ:Se3iqnhoufwC  
 
-- **[Foraging activity affects spatial organization in harvester ant colonies](https://link.springer.com/article/10.1007/s00040-019-00692-1)**  
-- **[Generalists start tasks and specialists finish them: Division of labor in ant colonies](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=A6xsceQAAAAJ&citation_for_view=A6xsceQAAAAJ:W7OEmFMy1HYC)**  
-- **[Specialization and interaction patterns in ant colony task allocation](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=A6xsceQAAAAJ&citation_for_view=A6xsceQAAAAJ:Se3iqnhoufwC)**  
+Working closely with empirical behavioral datasets revealed how difficult it can be to design experiments that reliably detect the mechanisms underlying collective behavior. Field and laboratory studies are often constrained by limited observation time, limited numbers of colonies, and high variability among individuals and environments.  
 
-These empirical studies motivated many of my later methodological and modeling projects.
+These experiences highlighted a broader methodological gap: while many statistical tools exist for analyzing data after it has been collected, there are comparatively few practical frameworks that guide researchers in designing experiments that maximize the information obtained from limited observations.  
+
+These challenges motivated much of my later work on optimal experimental design and statistical methodology.
 
 ---
 
 ## Optimal Design of Experiments
 
-A major focus of my research is developing **methods that dramatically reduce the cost and sample size required for experiments while maintaining statistical power.**
+A major focus of my research is the development of experimental design methods that reduce the cost and sample size required for scientific experiments while maintaining strong inferential power.
 
-This work integrates **industrial engineering, statistics, and machine learning** to design efficient experimental strategies.
+Relevant publications:
 
-Selected publications:
+- [Piecewise-Continuous Sampling: A Method for Minimizing Bias and Sampling Effort for Estimated Metrics of Animal Behavior](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=A6xsceQAAAAJ&citation_for_view=A6xsceQAAAAJ:5nxA0vEk-isC)  
 
-- **[Piecewise-Continuous Sampling: A Method for Minimizing Bias and Sampling Effort for Estimated Metrics of Animal Behavior](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=A6xsceQAAAAJ&citation_for_view=A6xsceQAAAAJ:5nxA0vEk-isC)**  
+- https://scholar.google.com/citations?view_op=view_citation&hl=en&user=A6xsceQAAAAJ&citation_for_view=A6xsceQAAAAJ:0EnyYjriUFMC  
 
-- **[Optimizing Sampling Across vs. Within Random Effects for Behavioral Data](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=A6xsceQAAAAJ&citation_for_view=A6xsceQAAAAJ:0EnyYjriUFMC)**  
+- https://scholar.google.com/citations?view_op=view_citation&hl=en&user=A6xsceQAAAAJ&citation_for_view=A6xsceQAAAAJ:ufrVoPGSRksC  
 
-- **[Optimal Experimental Designs for Hypothesis Testing with Multiple Factors](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=A6xsceQAAAAJ&citation_for_view=A6xsceQAAAAJ:ufrVoPGSRksC)**  
+- https://scholar.google.com/citations?view_op=view_citation&hl=en&user=A6xsceQAAAAJ&citation_for_view=A6xsceQAAAAJ:8k81kl-MbHgC  
 
-- **[Experimental design strategies for complex biological systems](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=A6xsceQAAAAJ&citation_for_view=A6xsceQAAAAJ:8k81kl-MbHgC)**  
+These projects develop methods for determining how experimental effort should be distributed across individuals, treatments, and time in order to maximize statistical power while minimizing sampling cost.
 
-These approaches have applications across **biology, engineering, and data-driven R&D environments.**
+The approaches draw heavily on techniques from industrial engineering and operations research, including sequential sampling strategies, power analysis, and optimization algorithms.  
+
+These methods have applications across biological field studies, behavioral ecology, engineering research, and data-driven R&D environments.
 
 ---
 
 ## Statistical Frameworks for Methodological Problems
 
-Another major thread of my work focuses on developing **general statistical frameworks that address fundamental methodological challenges.**
+Another major thread of my work focuses on developing statistical frameworks that address methodological challenges across disciplines.
 
-Examples include:
+One example is the development of improved sampling strategies for behavioral observations, including piecewise-continuous sampling methods that reduce bias while dramatically lowering observation effort.
 
-- sampling strategies for behavioral observations  
-- equivalency testing frameworks for manufacturing qualification  
-- multivariate inference for high-dimensional systems
+Another area of work involves equivalency testing frameworks for engineering qualification and requalification. In additive manufacturing, process changes such as machine replacement, powder changes, or facility relocation often trigger costly requalification procedures.  
 
-Key publication:
-
-- **[Minimizing inferential bias in the theory and design of nutritional experiments through the application of the equilateral mixture triangle](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=A6xsceQAAAAJ&citation_for_view=A6xsceQAAAAJ:MXK_kJrjxJIC)**  
+To address this problem, I have developed univariate and multivariate equivalency frameworks that allow manufacturers to determine whether two processes produce statistically equivalent parts while minimizing the number of required test builds. A manuscript describing this framework is currently in preparation.
 
 Associated open-source tools:
 
-- **Piecewise Continuous Sampling**
-  - https://github.com/colinmichaellynch/Selecting-Intervals-for-Piecewise-Continuous-Sampling
+- https://github.com/colinmichaellynch/Selecting-Intervals-for-Piecewise-Continuous-Sampling  
+- https://github.com/colinmichaellynch/AMEquivalency  
+- https://github.com/colinmichaellynch/MultivariateEquivalency  
 
-- **AMEquivalency**
-  - https://github.com/colinmichaellynch/AMEquivalency
-
-- **MultivariateEquivalency**
-  - https://github.com/colinmichaellynch/MultivariateEquivalency
-
-These frameworks aim to improve **experimental rigor, reproducibility, and decision-making across scientific disciplines.**
+These tools aim to improve experimental rigor and decision-making across both scientific research and industrial applications.
 
 ---
 
-## Modeling Complex Adaptive Systems
+## Modeling Complex Adaptive Systems and Collective Transitions
 
-My current research focuses on **modeling collective behavior and phase transitions in biological systems**, particularly social insect colonies.
+My current research focuses on modeling collective behavior and phase transitions in biological systems, particularly social insect colonies.
 
-These projects integrate:
+Relevant work:
 
-- nonlinear dynamical systems  
-- stochastic simulation  
-- agent-based modeling  
-- statistical inference
+- [Tuning regimes in ant foraging dynamics depend on the existence of bistability](https://royalsocietypublishing.org/rsif/article/23/235/20250838/480257)  
 
-Key papers:
+- https://www.biorxiv.org/content/10.1101/2024.04.26.591219v1.abstract  
 
-- **[Discovering the controllers of collective decisions by identifying sloppy singularities](https://royalsocietypublishing.org/rsif/article/23/235/20250838/480257)**  
+- https://www.biorxiv.org/content/10.1101/2024.05.13.593812v1.abstract  
 
-- **[Generalized criticality in collective systems](https://www.biorxiv.org/content/10.1101/2024.04.26.591219v1.abstract)**  
+Associated model repositories:
 
-- **[Modeling alarm cascades and collective transitions in social insects](https://www.biorxiv.org/content/10.1101/2024.05.13.593812v1.abstract)**  
+- https://www.comses.net/codebases/471369f9-a7e2-4519-844c-cf1afebc1d43/releases/1.0.0/  
+- https://www.comses.net/codebases/4aff6e81-62fd-45b6-9182-feafd2768a75/releases/1.3.0/
 
-Associated simulation repositories:
+A central goal of this work is to understand collective transitions, where small changes in parameters or environmental conditions produce abrupt changes in system behavior. Examples include the onset of coordinated foraging, alarm cascades, or collective decision-making events in social insect colonies.
 
-- **Alarm cascade simulation**
-  - https://www.comses.net/codebases/471369f9-a7e2-4519-844c-cf1afebc1d43/releases/1.0.0/
+Confronting empirical systems also revealed that many commonly used models assume forms of optimality that may not hold in real biological systems. Investigating these discrepancies motivated the development of alternative modeling approaches.
 
-- **Collective decision model**
-  - https://www.comses.net/codebases/4aff6e81-62fd-45b6-9182-feafd2768a75/releases/1.3.0/
+This includes exploring how machine learning ensembles can be reorganized to better represent collective dynamics, examining how stopping thresholds interact with starting thresholds in task allocation models, and investigating how different thresholding functions influence properties such as system scalability and robustness.
 
-These models help reveal how **local interactions between individuals can generate large-scale collective transitions.**
+Together, these studies contribute to a broader framework for understanding collective transitions across biological systems, where individual-level interactions produce emergent macroscopic states that can shift between regimes.
 
 ---
 
 # Integrating These Research Areas
 
-Although these research programs span multiple disciplines, they address a common question:
+Although these research programs span biology, engineering, and statistics, they address a common question:
 
-**How can we uncover the mechanisms driving complex systems using the most efficient experiments and models possible?**
+How can we efficiently uncover the mechanisms driving complex systems?
 
-My work connects:
+Empirical studies reveal the structure and variability of real biological systems.  
+Experimental design methods ensure that limited observational resources are used efficiently.  
+Statistical frameworks allow rigorous inference from complex datasets.  
+Computational models allow exploration of mechanisms that cannot easily be manipulated experimentally.
 
-- **Empirical experiments** on biological collectives  
-- **Optimal experimental design** to collect informative data  
-- **Statistical frameworks** for rigorous inference  
-- **Computational models** to explore system dynamics  
-
-Together, these approaches provide a unified strategy for understanding **collective behavior in complex adaptive systems.**
+Together, these approaches provide an integrated strategy for understanding collective phenomena in complex adaptive systems.
 
 ---
 
