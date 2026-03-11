@@ -1,16 +1,4 @@
-<p align="center">
-  <img width="420" src="https://raw.githubusercontent.com/colinmichaellynch/images/main/netlogoSim.gif">
-  <img width="420" src="https://user-images.githubusercontent.com/61156429/211726471-9fee64e6-1dc8-4719-9aea-530528ec39a1.gif">
-</p>
-
-<p align="center">
-  <img width="400" src="https://user-images.githubusercontent.com/61156429/211883975-0946d5e5-95f6-47ae-81f8-74b415f5cdc7.gif">
-  <img width="400" src="https://user-images.githubusercontent.com/61156429/227611733-72318322-7845-475b-a4f4-497e3b092d33.gif">
-</p>
-
----
-
-# Colin M. Lynch
+# Dr. Colin Lynch
 
 Postdoctoral Fellow — Collective Logic Lab, Arizona State University  
 Working with Dr. Bryan Daniels
@@ -30,8 +18,10 @@ My early research focused on empirical behavioral ecology, particularly how divi
 
 Relevant publications:
 
-- [Ants in isolation: obstacles to testing worker responses to task stimuli outside of the colony context](https://link.springer.com/article/10.1007/s00040-019-00692-1)  
-- [Synergistic negative effects between a fungicide and high temperatures on homing behaviours in honeybees](https://royalsocietypublishing.org/rspb/article/291/2019/20240040/104420)   
+- [Ants in isolation: obstacles to testing worker responses to task stimuli outside of the colony context](https://link.springer.com/article/10.1007/s00040-019-00692-1)
+  
+- [Synergistic negative effects between a fungicide and high temperatures on homing behaviours in honeybees](https://royalsocietypublishing.org/rspb/article/291/2019/20240040/104420)
+  
 - [Ontogeny of energy use in harvester ant colonies, and the metabolic expense of colony growth](https://royalsocietypublishing.org/rspb/article/292/2039/20242534/105559)
 
 Working closely with empirical behavioral datasets revealed how difficult it can be to design experiments that reliably detect the mechanisms underlying collective behavior. Field and laboratory studies are often constrained by limited observation time, limited numbers of colonies, and high variability among individuals and environments. These experiences highlighted a broader methodological gap: while many statistical tools exist for analyzing data after it has been collected, there are comparatively few practical frameworks that guide researchers in designing experiments that maximize the information obtained from limited observations. These challenges motivated much of my later work on optimal experimental design and statistical methodology.
@@ -141,3 +131,13 @@ Together, these approaches provide an integrated strategy for understanding coll
 | ResearchGate | https://www.researchgate.net/profile/C-Lynch |
 
 ---
+
+<p align="center">
+  <img width="420" src="https://raw.githubusercontent.com/colinmichaellynch/images/main/netlogoSim.gif">
+  <img width="420" src="https://user-images.githubusercontent.com/61156429/211726471-9fee64e6-1dc8-4719-9aea-530528ec39a1.gif">
+</p>
+
+<p align="center">
+  <img width="400" src="https://user-images.githubusercontent.com/61156429/211883975-0946d5e5-95f6-47ae-81f8-74b415f5cdc7.gif">
+  <img width="400" src="https://user-images.githubusercontent.com/61156429/227611733-72318322-7845-475b-a4f4-497e3b092d33.gif">
+</p>
