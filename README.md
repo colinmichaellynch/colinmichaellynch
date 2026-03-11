@@ -112,7 +112,8 @@ More broadly, this work is part of a larger effort to understand collective syst
 
 - [Tuning regimes in ant foraging dynamics depend on the existence of bistability](https://royalsocietypublishing.org/rsif/article/23/235/20250838/480257)
 
-This line of research contributes to a broader framework for studying collective transitions across biological systems, where individual-level interactions generate emergent system-level states that can shift between regimes in response to changing environmental or internal conditions.
+  This line of research contributes to a broader framework for studying collective transitions across biological systems, where individual-level interactions generate emergent system-level states that can shift between regimes in response to changing environmental or internal conditions.
+  
 ---
 
 # Integrating These Research Areas
