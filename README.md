@@ -74,11 +74,9 @@ Another methodological contribution addresses the design of nutritional experime
 
 I reintroduce the equilateral mixture triangle (EMT) framework for experimental design within the geometric framework of nutrition. Traditional mixture experiments are often implemented using right-angled mixture triangles, which can introduce distortions in the interpretation of nutritional landscapes and bias inference about nutrient interactions. The EMT framework provides a geometrically consistent representation of mixture spaces that preserves the underlying structure of compositional data and improves interpretability of nutritional response surfaces.
 
-A second line of work focuses on equivalency testing frameworks for engineering qualification and requalification, particularly in additive manufacturing. In these systems, process changes such as machine replacement, powder changes, facility relocation, or environmental drift can trigger costly requalification procedures.
+A second line of work focuses on equivalency testing frameworks for engineering qualification and requalification, particularly in additive manufacturing. In these systems, process changes such as machine replacement, powder changes, facility relocation, or environmental drift can trigger costly requalification procedures. 
 
-To address this problem, I have developed statistical frameworks for both univariate and multivariate equivalency testing that allow manufacturers to determine whether two processes produce statistically equivalent parts while minimizing the number of required test builds. A manuscript describing this framework is currently in preparation.
-
-The univariate version is available here
+To address this problem, I have developed statistical frameworks for both univariate and multivariate equivalency testing that allow manufacturers to determine whether two processes produce statistically equivalent parts while minimizing the number of required test builds. This process relies on establishing the equivalency between a prequalified reference process and an unqualified candidate process. The univariate version is available here
 
 - [Determining Univariate Equivalency of Additively Manufactured Parts](https://www.mdpi.com/2504-4494/10/4/134)
 
@@ -91,6 +89,10 @@ This package implements statistical methods for assessing equivalency between ad
 - https://github.com/colinmichaellynch/MultivariateEquivalency  
 
 This repository extends equivalency testing to multivariate settings, allowing multiple correlated quality metrics to be evaluated simultaneously when determining whether a manufacturing process remains within acceptable performance bounds.
+
+Current work focuses on using this framework to establish equivalency of 2D scans between processes, which would be faster and cheaper than printing whole parts, especially since traditional mechanical testing can miss underlying defects
+
+- [Sensitivity of mechanical properties to processing defects: Is tensile testing an appropriate metric for laser beam metal powder bed fusion machine qualification?](https://www.sciencedirect.com/science/article/pii/S2214860424004135) 
 
 Together, these frameworks aim to improve experimental rigor, reduce unnecessary testing costs, and support more reliable decision-making in both scientific research and industrial engineering applications.
 
