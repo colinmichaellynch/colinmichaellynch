@@ -78,6 +78,10 @@ A second line of work focuses on equivalency testing frameworks for engineering 
 
 To address this problem, I have developed statistical frameworks for both univariate and multivariate equivalency testing that allow manufacturers to determine whether two processes produce statistically equivalent parts while minimizing the number of required test builds. A manuscript describing this framework is currently in preparation.
 
+The univariate version is available here
+
+- [Determining Univariate Equivalency of Additively Manufactured Parts](https://www.mdpi.com/2504-4494/10/4/134)
+
 The associated tools are implemented in the following repositories:
 
 - https://github.com/colinmichaellynch/AMEquivalency  
