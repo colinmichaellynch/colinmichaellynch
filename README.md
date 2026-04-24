@@ -92,7 +92,7 @@ This repository extends equivalency testing to multivariate settings, allowing m
 
 - [Sensitivity of mechanical properties to processing defects: Is tensile testing an appropriate metric for laser beam metal powder bed fusion machine qualification?](https://www.sciencedirect.com/science/article/pii/S2214860424004135) 
 
-My theoretical work on response and satisfaction thresholds has recast various mechanisms for division of labor (response and satisfaction thresholds) as logistic functions (see modeling section below). This not only has important modeling implications, but it also points towards a novel method of statistically testing these thresholds. This new statistical test is available at the following repository:  
+My theoretical work on response and satisfaction thresholds has recast these mechanisms for division of labor as logistic functions (see modeling section below). This not only has important modeling implications, but it also points towards a novel method of statistically testing these thresholds. This new statistical test is available at the following repository:  
 
 -https://github.com/colinmichaellynch/ThresholdAssayR
 
