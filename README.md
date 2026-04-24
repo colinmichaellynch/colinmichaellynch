@@ -88,11 +88,13 @@ This package implements statistical methods for assessing equivalency between ad
 
 - https://github.com/colinmichaellynch/MultivariateEquivalency  
 
-This repository extends equivalency testing to multivariate settings, allowing multiple correlated quality metrics to be evaluated simultaneously when determining whether a manufacturing process remains within acceptable performance bounds.
-
-Current work focuses on using this framework to establish equivalency of 2D scans between processes, which would be faster and cheaper than printing whole parts, especially since traditional mechanical testing can miss underlying defects
+This repository extends equivalency testing to multivariate settings, allowing multiple correlated quality metrics to be evaluated simultaneously when determining whether a manufacturing process remains within acceptable performance bounds. Current work focuses on using this framework to establish equivalency of 2D scans between processes, which would be faster and cheaper than printing whole parts, especially since traditional mechanical testing can miss underlying defects
 
 - [Sensitivity of mechanical properties to processing defects: Is tensile testing an appropriate metric for laser beam metal powder bed fusion machine qualification?](https://www.sciencedirect.com/science/article/pii/S2214860424004135) 
+
+My theoretical work on response and satisfaction thresholds has recast various mechanisms for division of labor (response and satisfaction thresholds) as logistic functions (see modeling section below). This not only has important modeling implications, but it also points towards a novel method of statistically testing these thresholds. This new statistical test is available at the following repository:  
+
+-https://github.com/colinmichaellynch/ThresholdAssayR
 
 Together, these frameworks aim to improve experimental rigor, reduce unnecessary testing costs, and support more reliable decision-making in both scientific research and industrial engineering applications.
 
