@@ -94,7 +94,7 @@ This repository extends equivalency testing to multivariate settings, allowing m
 
 My theoretical work on response and satisfaction thresholds has recast these mechanisms for division of labor as logistic functions (see modeling section below). This not only has important modeling implications, but it also points towards a novel method of statistically testing these thresholds. This new statistical test is available at the following repository:  
 
--https://github.com/colinmichaellynch/ThresholdAssayR
+- https://github.com/colinmichaellynch/ThresholdAssayR
 
 Together, these frameworks aim to improve experimental rigor, reduce unnecessary testing costs, and support more reliable decision-making in both scientific research and industrial engineering applications.
 
