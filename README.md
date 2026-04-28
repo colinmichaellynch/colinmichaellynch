@@ -8,7 +8,7 @@ Working with Dr. Bryan Daniels
 Statistical Consultant — Terra Integrated Solutions     
 Working with Dr. Rene Villalobos
 
-My research integrates statistical methodology, optimal experimental design, empirical behavioral ecology, and computational modeling to study complex adaptive systems. Across biological and engineered systems, I develop methods for designing more informative experiments, reducing sampling costs, and uncovering the mechanisms that generate collective behavior.
+My research integrates statistical methodology, optimal experimental design, machine learning and AI, empirical behavioral ecology, and computational modeling to study complex adaptive systems. Across biological and engineered systems, I develop methods for designing more informative experiments, reducing sampling costs, and uncovering the mechanisms that generate collective behavior.
 
 ---
 
