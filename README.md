@@ -2,6 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/colinmichaellynch/images/main/Picture3.png" align="right" width="250" style="margin-left:20px;">
 
+Senior Learning Researcher — Action Lab, EdPlus, Arizona State University  
+Working with Dr. Annie Hale
+
 Postdoctoral Fellow — Collective Logic Lab, Arizona State University  
 Working with Dr. Bryan Daniels
 
